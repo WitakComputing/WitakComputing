@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WitakComputing
-- 👀 I’m interested in Cloud Computing & IaaS
+- 👀 I’m interested in Cloud Computing & Programming
 - 🌱 I’m currently in the process of doing my IT support technician apprenticeship
-- 💞️ I’m looking to be inspired & learn
+- 💞️ I’m looking to learn programming
 - 📫 How to reach me konrad@disking.co.uk
 
 <!---
